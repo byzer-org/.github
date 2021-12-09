@@ -1,8 +1,8 @@
-## Hey, this is Byzer Org 👋
+## Hey, this is Byzer Community 👋
 
 ![Kolo](https://raw.githubusercontent.com/byzer-org/kolo-lang/master/images/Kolo_Logo.png)
 
-Yes, we are building a new opensource comminuty on GitHub which named "Byzer"
+Yes, we are building a new opensource comminuty on GitHub which named **Byzer**
 
 
 > - Byzer: A mythical creatures in chinese myth system, it can speak in human languages and knows everything
@@ -11,20 +11,21 @@ Yes, we are building a new opensource comminuty on GitHub which named "Byzer"
 ### 🦄 A Data-oriented and AI-oriented community
 
 
-Byzer Org aims to develop programming language and products to unleash the productivity for `Data Engineers`, `AI Engineers` and the `Operators` in the domain of Big Data & AI. 
+Byzer community aims to develop programming language and products to unleash the productivity for `Data Engineers`, `AI Engineers` and the `Operators` in the domain of Big Data & AI. 
 
 We want to help the SMB (Small Medium Buniness) to quickly implement Data AI platform in an **efficient** way. 
 
 - [Kolo-Lang](https://github.com/byzer-org/kolo-lang): A low-code open-source programming language for data pipeline, analytics and AI in cloud native way.
 - [Byzer Notebook](https://github.com/byzer-org/byzer-notebook): An IDE for Kolo-lang but more than an IDE.
+- [Byzer Docs](https://docs.byzer.org/): The documents of Byzer community
 
 
-Byzer orgnization is sponsored by [Kyligence Inc.](https://kyligence.io/)
+Byzer community is sponsored by [Kyligence Inc.](https://kyligence.io/)
 
 
-### 🛠 Contributing to the Byzer Org
+### 🛠 Contributing to the Byzer Community
 
-If Kolo-Lang and Byzer Notebook are helpful to you, or if you are interested in contributing your own strength, the (Byzer Org) is looking forward to your contribution, let's go far go together.
+If Kolo-Lang and Byzer Notebook are helpful to you, or if you are interested in contributing your own strength, Byzer community is looking forward to your contribution, let's go far go together.
 
 - [How to Contribute](https://docs.byzer.org/#/kolo-lang/en-us/appendix/contribute) 
 - [如何贡献](https://docs.byzer.org/#/kolo-lang/zh-cn/appendix/contribute)
