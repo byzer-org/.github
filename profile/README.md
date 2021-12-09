@@ -1,6 +1,8 @@
 ## Hey, this is Byzer Community 👋
 
-![Kolo](https://raw.githubusercontent.com/byzer-org/kolo-lang/master/images/Kolo_Logo.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/byzer-org/kolo-lang/master/images/Kolo_Logo.png" alt="drawing"  width="200"/>
+</p>
 
 Yes, we are building a new opensource comminuty on GitHub which named **Byzer**
 
