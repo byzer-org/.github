@@ -28,7 +28,7 @@ If Kolo-Lang and Byzer Notebook are helpful to you, or if you are interested in 
 
 - [How to Contribute](https://docs.byzer.org/#/kolo-lang/en-us/appendix/contribute) 
 - [如何贡献](https://docs.byzer.org/#/kolo-lang/zh-cn/appendix/contribute)
-- [Byzer Org Roadmap](../roadmap/README.md) 🎯
+- [Byzer Org Roadmap](https://github.com/byzer-org/.github/blob/main/roadmap/README.md) 🎯
 
 👉  **If you want to be a member of Byzer Org, just submit an issue [here](https://github.com/byzer-org/.github/issues).**
 
