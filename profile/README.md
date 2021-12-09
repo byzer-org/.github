@@ -17,7 +17,7 @@ Byzer community aims to develop programming language and products to unleash the
 
 We want to help the SMB (Small Medium Buniness) to quickly implement Data AI platform in an **efficient** way. 
 
-- [Kolo-Lang](https://github.com/byzer-org/kolo-lang): A low-code open-source programming language for data pipeline, analytics and AI in cloud native way.
+- [Kolo-Lang](https://github.com/byzer-org/kolo-lang): A low-code open-source programming language for data pipeline, analytics and AI.
 - [Byzer Notebook](https://github.com/byzer-org/byzer-notebook): An IDE for Kolo-lang but more than an IDE.
 - [Byzer Docs](https://docs.byzer.org/): The documents of Byzer community
 
