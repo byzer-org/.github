@@ -5,8 +5,8 @@
 Yes, we are building a new opensource comminuty on GitHub which named "Byzer"
 
 
-> Byzer: A mythical creatures in chinese myth system, it can speak in human languages and knows everything
-> 白泽：中国古代神话中的瑞兽。 能言语，通万物之情，知鬼神之事
+> - Byzer: A mythical creatures in chinese myth system, it can speak in human languages and knows everything
+> - 白泽：中国古代神话中的瑞兽。 能言语，通万物之情，知鬼神之事
 
 ### 🦄 A Data-oriented and AI-oriented community
 
