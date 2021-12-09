@@ -36,3 +36,7 @@ If Kolo-Lang and Byzer Notebook are helpful to you, or if you are interested in 
 
 - 🖥 If you need commercial support, please [contact us](https://cn.kyligence.io/contact-us-zh/).
 - 🏆  If you want to sponsor Byzer Org，please send email to Byzer PMC members: [William Zhu](mailto:hailin.zhu@kyligence.io), [Zhengshuai Peng](mailto:zhengshuai.peng@kyligence.io), [Qi Lin](mailto:qi.lin@kyligence.io)
+
+### Special Thanks
+
+We are very grateful to those who have made great contributions to the Byzer community at the non-code level (list in no particular order): [Shawn Tong / 童上](mailto:tongshangi5700@gmail.com), [Branch Tie / 铁金龙](mailto:tiemuxu@gmail.com), [Wusheng Pei / 裴武圣](mailto:493316927@qq.com), [Yao Yao / 姚瑶](mailto:yaoyaoustc@gmail.com), [Muyun Xiao / 肖牧云](mailto:xiaomuyun@gmail.com), [Na Jiang / 蒋娜](mailto:)
