@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/byzer-org/kolo-lang/master/images/Kolo_Logo.png" alt="drawing"  width="200"/>
 </p>
 
-Yes, we are building a new opensource comminuty on GitHub which named **Byzer**
+Yes, we are building a new opensource community on GitHub which named **Byzer**
 
 
 > - Byzer: A mythical creatures in chinese myth system, it can speak in human languages and knows everything
