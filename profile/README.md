@@ -1,8 +1,8 @@
 ## Hey, this is Byzer Community 👋
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/byzer-org/kolo-lang/master/images/Kolo_Logo.png" alt="drawing"  width="200"/>
-</p>
+<!-- <p align="center">
+    <img src="https://raw.githubusercontent.com/byzer-org/kolo-lang/master/images/Byzer_Logo.png" alt="drawing"  width="200"/>
+</p> -->
 
 Yes, we are building a new opensource community on GitHub which named **Byzer**
 
@@ -17,7 +17,7 @@ Byzer community aims to develop programming language and products to unleash the
 
 We want to help the SMB (Small Medium Buniness) to quickly implement Data AI platform in an **efficient** way. 
 
-- [Kolo-Lang](https://github.com/byzer-org/kolo-lang): （former MLSQL）A low-code open-source programming language for data pipeline, analytics and AI.
+- [Byzer-Lang](https://github.com/byzer-org/byzer-lang): （former MLSQL）A low-code open-source programming language for data pipeline, analytics and AI.
 - [Byzer Notebook](https://github.com/byzer-org/byzer-notebook): An IDE for Kolo-lang but more than an IDE.
 - [Byzer Docs](https://docs.byzer.org/): The documents of Byzer community
 
@@ -27,7 +27,7 @@ Byzer community is sponsored by [Kyligence Inc.](https://kyligence.io/)
 
 ### 🛠 Contributing to the Byzer Community
 
-If Kolo-Lang and Byzer Notebook are helpful to you, or if you are interested in contributing your own strength, Byzer community is looking forward to your contribution, let's go far go together.
+If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in contributing your own strength, Byzer community is looking forward to your contribution, let's go far go together.
 
 - [How to Contribute](https://docs.byzer.org/#/kolo-lang/en-us/appendix/contribute) 
 - [如何贡献](https://docs.byzer.org/#/kolo-lang/zh-cn/appendix/contribute)
