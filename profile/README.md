@@ -39,7 +39,7 @@ If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in
 
 - 🖥  If you need commercial support, please [contact us](https://cn.kyligence.io/contact-us-zh/).
 - 🏆  If you want to sponsor Byzer Org，please send email to Byzer PMC members: [William Zhu](mailto:hailin.zhu@kyligence.io), [Zhengshuai Peng](mailto:zhengshuai.peng@kyligence.io), [Qi Lin](mailto:qi.lin@kyligence.io)
-- 🤪  The naming story of the kolo (in [Chinese version](https://docs.byzer.org/#/kolo-lang/zh-cn/appendix/naming_story))
+- 🤪  The naming story of the byzer (in [Chinese version](https://docs.byzer.org/#/kolo-lang/zh-cn/appendix/naming_story))
 
 ### 👍 Special Thanks
 Thanks for all the contributors in Byzer Community, You will see your github avatar in each project.
