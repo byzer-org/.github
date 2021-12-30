@@ -36,7 +36,7 @@ If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in
 
 
 👉  **If you want to be a member of Byzer Org, just submit an issue [here](https://github.com/byzer-org/.github/issues).**
-👉  **Byzer Community use slack [byzer-org.slack.com](byzer-org.slack.com) for discussion , click [Here](https://join.slack.com/t/byzer-org/shared_invite/zt-10qgl60dg-lX4fFggaHyHB6GtUmer_xw) to join the discussion in community**
+👉  **Byzer Community uses slack [byzer-org.slack.com](byzer-org.slack.com) for discussion , click [Here](https://join.slack.com/t/byzer-org/shared_invite/zt-10qgl60dg-lX4fFggaHyHB6GtUmer_xw) to join the discussion in community**
 
 
 ### 👀 Appendix
