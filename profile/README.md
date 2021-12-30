@@ -22,7 +22,7 @@ We want to help the SMB (Small Medium Buniness) to quickly implement Data AI pla
 - [Byzer Docs](https://docs.byzer.org/): The documents of Byzer community
 
 
-Byzer community is sponsored by [Kyligence Inc.](https://kyligence.io/)
+
 
 
 ### 🛠 Contributing to the Byzer Community
@@ -36,6 +36,7 @@ If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in
 
 
 👉  **If you want to be a member of Byzer Org, just submit an issue [here](https://github.com/byzer-org/.github/issues).**
+
 👉  **Byzer Community uses slack [byzer-org.slack.com](byzer-org.slack.com) for discussion , click [Here](https://join.slack.com/t/byzer-org/shared_invite/zt-10qgl60dg-lX4fFggaHyHB6GtUmer_xw) to join the discussion in community**
 
 
@@ -49,3 +50,5 @@ If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in
 Thanks for all the contributors in Byzer Community, You will see your github avatar in each project.
 
 And we are very grateful to those who have made great contributions to the Byzer community at the non-code level (list in no particular order): [Shawn Tong / 童上](mailto:tongshangi5700@gmail.com), [Branch Tie / 铁金龙](mailto:tiemuxu@gmail.com), [Wusheng Pei / 裴武圣](mailto:493316927@qq.com), [Yao Yao / 姚瑶](mailto:yaoyaoustc@gmail.com), [Muyun Xiao / 肖牧云](mailto:xiaomuyun@gmail.com), [Na Jiang / 蒋娜](mailto:Jenna.Jiang2016@outlook.com)
+
+Byzer community is sponsored by [Kyligence Inc.](https://kyligence.io/)
