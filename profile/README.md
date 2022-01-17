@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/byzer-org/.github/main/media/Byzer_Logo.png" alt="drawing"  width="220"/>
 
 
-Yes, we are building a new opensource community on GitHub which named **Byzer™**
+Yes, we are building a new opensource community on GitHub which named **Byzer**
 
 
 > - Byzer: A mythical creatures in chinese myth system, it can speak in human languages and knows everything
@@ -39,7 +39,7 @@ If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in
 ### 👀 Appendix
 
 - 🎯  [Byzer Org Roadmap](https://github.com/byzer-org/.github/blob/main/roadmap/README.md) 
-- 🏆  If you want to sponsor Byzer Org，please send email to Byzer PMC members: [Byzer PMC](pmc@byzer.org)
+- 🏆  If you want to sponsor Byzer Org，please send email to Byzer PMC members: [pmc@byzer.org](pmc@byzer.org)
 - 🤪  The naming story of the byzer (in [Chinese version](https://github.com/byzer-org/byzer-doc/blob/main/byzer-lang/zh-cn/appendix/naming_story.md))
 
 ### 👍 Special Thanks
