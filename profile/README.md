@@ -24,16 +24,16 @@ We want to help the SMB (Small Medium Buniness) to quickly implement Data AI pla
 
 ### 🛠 Contributing to the Byzer Community
 
-If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in contributing your own strength, Byzer community is looking forward to your contribution, let's go far go together.
+If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in contributing your own strength, Byzer community is looking forward to your contribution, let's go far go together. **If you want to be a member of Byzer Org, please follow the contributing rules to contribute any project in Byzer community.**
 
 
 - [How to Contribute](https://github.com/byzer-org/byzer-doc/blob/main/byzer-lang/en-us/appendix/contribute.md) 
 - [如何贡献](https://github.com/byzer-org/byzer-doc/blob/main/byzer-lang/zh-cn/appendix/contribute.md)
 
 
-👉  **If you want to be a member of Byzer Org, please follow the contributing rules to contribute any project in Byzer community.** 
-👉  **Once you become a committer, you will get an email-account@byzer.org** 
-👉  **Byzer Community uses slack [byzer-org.slack.com](byzer-org.slack.com) for discussion , click [Here](https://join.slack.com/t/byzer-org/shared_invite/zt-10qgl60dg-lX4fFggaHyHB6GtUmer_xw) to join the discussion in community**
+- 👉  Byzer Community uses **slack: [byzer-org.slack.com](byzer-org.slack.com)** for discussion, click [Here](https://join.slack.com/t/byzer-org/shared_invite/zt-10qgl60dg-lX4fFggaHyHB6GtUmer_xw) to join the discussion in community
+- 👉  Once you become a committer, you will get an **email-account@byzer.org**, please refer the [instruction](../misc/use_email.md) to use your email account.
+
 
 
 ### 👀 Appendix
