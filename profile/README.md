@@ -23,7 +23,7 @@ We want to help the SMB (Small Medium Buniness) to quickly implement Data AI pla
 - [Byzer Docs](https://docs.byzer.org/): The documents of Byzer community
 
 
-👉 👉 👉  Please refer to the [Byzer Community Information](https://github.com/byzer-org/.github/blob/main/misc/info_map.md) for more details about Byzer Community
+👉 👉 👉  **Please refer to the [Byzer Community Information](https://github.com/byzer-org/.github/blob/main/misc/info_map.md) for more details about Byzer Community**
 
 
 ### 🛠 Contributing to the Byzer Community
