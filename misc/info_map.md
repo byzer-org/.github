@@ -70,7 +70,7 @@ Please add Byzer community wechat assistant in Wechat via the QR code below
 You can follow the Byzer Community in Wechat official account via the QR code below
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/byzer-org/.github/main/misc/images/wechat_account.png" alt="drawing"  width="220"/>
+    <img src="https://raw.githubusercontent.com/byzer-org/.github/main/misc/images/official_account.png" alt="drawing"  width="220"/>
 
 #### Bilibili 
 
