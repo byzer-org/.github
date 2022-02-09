@@ -23,7 +23,7 @@ We want to help the SMB (Small Medium Buniness) to quickly implement Data AI pla
 - [Byzer Docs](https://docs.byzer.org/): The documents of Byzer community
 
 
-👉 👉 👉  **Please refer to the [Byzer Community Information](https://github.com/byzer-org/.github/blob/main/misc/info_map.md) for more details about Byzer Community**
+👉 👉 👉  **Please refer to the [Byzer Community Information](https://github.com/byzer-org/.github/blob/main/community/info_map.md) for more details about Byzer Community**
 
 
 ### 🛠 Contributing to the Byzer Community
@@ -36,12 +36,13 @@ If Byzer-Lang and Byzer Notebook are helpful to you, or if you are interested in
 
 
 - 👉  Byzer Community uses **slack: [byzer-org.slack.com](byzer-org.slack.com)** for discussion, click **[Here](https://join.slack.com/t/byzer-org/shared_invite/zt-10qgl60dg-lX4fFggaHyHB6GtUmer_xw)** to join the discussion in community
-- 👉  Once you become a committer, you will get an **email-account@byzer.org**, please refer the **[email instruction](https://github.com/byzer-org/.github/blob/main/misc/use_email.md)** to use your email account.
+- 👉  Once you become a committer, you will get an **email-account@byzer.org**, please refer the **[email instruction](https://github.com/byzer-org/.github/blob/main/community/use_email.md)** to use your email account.
 
 
 
 ### 👀 Appendix
 
+- 🏠  [Byzer Community Information](https://github.com/byzer-org/.github/blob/main/community/info_map.md)
 - 🎯  [Byzer Org Roadmap](https://github.com/byzer-org/.github/blob/main/roadmap/README.md) 
 - 🏆  If you want to sponsor Byzer Org，please send email to Byzer PMC members: [pmc@byzer.org](pmc@byzer.org)
 - 🤪  The naming story of the byzer (in [Chinese version](https://github.com/byzer-org/byzer-doc/blob/main/byzer-lang/zh-cn/appendix/naming_story.md))
